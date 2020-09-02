@@ -1,8 +1,10 @@
 results/*.out
 results/*.pdf
 results/*.ps
-data/ChIP-seq/*
-data/phylo/*
-data/chains/*
+data/ChIP-seq/*.narrowPeak
+data/ChIP-seq/*.bed
+data/phylo/*.nh
+data/chains/*.chain.gz
+data/chains/*.pkl
 tmp/
 scripts/
