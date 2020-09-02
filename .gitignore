@@ -1,0 +1,6 @@
+results/*.out
+data/ChIP-seq/*
+data/phylo/*
+data/chains/*
+tmp/
+scripts/
